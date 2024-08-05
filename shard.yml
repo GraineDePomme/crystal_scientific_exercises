@@ -1,0 +1,19 @@
+name: crystal_scientific_exercises
+version: 0.1.0
+
+authors:
+  - GraineDePomme <Guillaume.Sarisson@gmail.com>
+
+targets:
+  crystal_scientific_exercises:
+    main: src/crystal_scientific_exercises.cr
+
+crystal: '>= 1.12.2'
+
+license: MIT
+
+dependencies:
+  physical_constants:
+    github: GraineDePomme/physical_constants
+  crystal_scientific_library:
+    github: GraineDePomme/crystal_scientific_library
