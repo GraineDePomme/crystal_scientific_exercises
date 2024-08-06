@@ -6,5 +6,5 @@ shards:
 
   physical_constants:
     git: https://github.com/grainedepomme/physical_constants.git
-    version: 0.1.0+git.commit.b4a53ffd07b60a512d3e1ce671dee74ab8be6e95
+    version: 0.1.0+git.commit.2561293f0bc69e85d7a1d28335c2afc12f45e150
 

@@ -40,9 +40,9 @@ puts "\n"
 # Here is a demonstration of how it works.
 # =======================================================================================
 
+puts "\n"
 puts "EXERCISE 4 : CONVERTING POLAR COORDINATES (using the Crystal Scientific Library)"
 puts "\n"
-
 
 theta_radian = CrystalScientificLibrary.convert_angle 60, from: "degree", to: "radian"
 cartesian_coordinates = CrystalScientificLibrary.convert_coordinates r: 2, theta: theta_radian, from: "polar", to: "cartesian"
