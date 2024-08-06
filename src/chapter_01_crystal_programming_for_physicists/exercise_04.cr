@@ -32,6 +32,14 @@ convert_polar_to_cartesian r: 2, theta_degree: 180
 
 puts "\n"
 
+
+# =======================================================================================
+# The crystal Scientific Library provides a build-in function to convert coordinates
+# from one coordinate system to another.
+# 
+# Here is a demonstration of how it works.
+# =======================================================================================
+
 puts "EXERCISE 4 : CONVERTING POLAR COORDINATES (using the Crystal Scientific Library)"
 puts "\n"
 
