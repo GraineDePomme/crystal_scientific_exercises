@@ -2,9 +2,9 @@ version: 2.0
 shards:
   crystal_scientific_library:
     git: https://github.com/grainedepomme/crystal_scientific_library.git
-    version: 0.1.0+git.commit.d3dac74a7afad566d456119594ef1aae72d3084c
+    version: 0.1.0+git.commit.6d61eb1cffa3940fc3d01d4ba34445022cc96b20
 
   physical_constants:
     git: https://github.com/grainedepomme/physical_constants.git
-    version: 0.1.0+git.commit.23586a7b7a9c7aa1ac98df5a8c38b96542392431
+    version: 0.1.0+git.commit.b4a53ffd07b60a512d3e1ce671dee74ab8be6e95
 
